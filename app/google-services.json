@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051057236568",
+    "project_id": "make-it-so-20f33",
+    "storage_bucket": "make-it-so-20f33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051057236568:android:d77992a4a351ac2200b82d",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmgYhHL4oj7O9-XKrKKdP2Ok9GbDxwTWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
