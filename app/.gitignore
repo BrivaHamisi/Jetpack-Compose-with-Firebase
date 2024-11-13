@@ -1,1 +1,8 @@
 /build
+
+# Ignore Firebase config file
+google-services.json
+
+# Ignore Firebase config file in the 'start/app' directory
+start/app/google-services.json
+
