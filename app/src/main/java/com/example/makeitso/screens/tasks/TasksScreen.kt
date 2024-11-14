@@ -100,7 +100,7 @@ fun TasksScreenContent(
         items(tasks, key = { it.id }) { taskItem ->
           TaskItem(
             task = taskItem,
-            options = listOf(),
+            options = options,
             onCheckChange = { onTaskCheckChange(taskItem) },
             onActionClick = { action -> onTaskActionClick(openScreen, taskItem, action) }
           )
